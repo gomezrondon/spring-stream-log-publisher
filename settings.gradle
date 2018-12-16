@@ -1,0 +1,3 @@
+rootProject.name = 'spring-stream-log-publisher'
+include 'producer'
+include 'consumer'
